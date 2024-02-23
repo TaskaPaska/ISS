@@ -1,0 +1,4 @@
+src/partitioned_data/
+config.py
+src/__pycache__
+.idea/
